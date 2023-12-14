@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --popper-theme-background-color: #333333;
+  --popper-theme-background-color: transparent;
   --popper-theme-background-color-hover: #333333;
   --popper-theme-text-color: #ffffff;
   --popper-theme-border-width: 0px;
